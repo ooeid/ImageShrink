@@ -9,7 +9,7 @@
 
   <div align="center"> 
   ✔ build ✔ Test
-
+  A small desktop tool built on Electron for minimizing images.
   </div>
 
   ### Download
