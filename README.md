@@ -8,8 +8,8 @@
 
 
   <div align="center"> 
-  ✔ build ✔ Test </hr>
-  A small desktop tool built on Electron for minimizing images.
+  ✔ build ✔ Test 
+   <br> A small desktop tool built on Electron for minimizing images.
   </div>
 
   ### Download
@@ -27,7 +27,7 @@
   ```
   install dependencies
   ```
-  - npm install
+  npm install
   ``` 
   start :)
   ```
