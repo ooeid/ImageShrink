@@ -1,12 +1,11 @@
 
   <p align="center">
     <a href="">
-      <img width="200" src="ImgReadme.jpg">
+      <img  src="ImgReadme.jpg">
     </a>
   </p>
   <h1 align="center">ImageShrink</h1>
 
-  git init
 
   <div align="center"> 
   ✔ build ✔ Test
@@ -19,7 +18,7 @@
 
   or you can clone the project 
   ```
-  git clone  
+  git clone  https://github.com/ooeid/ImageShrink.git
   ```
 
   change to the project folder 
